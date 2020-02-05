@@ -1,0 +1,133 @@
+
+/*
+color green: #61dAac;
+*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+.navbar {
+	background-color: #fff;
+	z-index: 1200px;
+}
+
+.nav-link {
+	color: #61dAac !important;
+	font-size: 1rem;
+	margin-top: 30px;
+	padding-right: 20px;
+}
+.nav-link:hover {
+	color: #114242 !important;
+	border-bottom: 2px solid #114242;
+}
+
+.btn-bd-download {
+	background: #61dAac;
+	color: #fff;
+	border: 1px solid #61dAac;
+	border-radius: 30px;
+	padding: 10px 50px;
+}
+
+.btn-bd-download:hover {
+	color: #61dAac;
+	background: #fff;
+}
+
+.navbar-brand {
+	margin-top: 0;
+}
+
+.navbar-brand  img {
+	height: 50px ;
+    width: 100px ;
+}
+
+
+ h1 {
+	color: #fff;
+	font-size: 1.8rem;
+	margin-top: -20px;
+}
+.display-5 {
+	line-height: 1.5;
+}
+
+h2 {
+	color: #61dAac;
+	padding: 50px 0;
+}
+
+h2:after {
+    display: block;
+    height: 4px;
+    background-color: #114242;
+    content: " ";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+h3 {
+	color: #114242;
+}
+
+.lead {
+	font-weight: 300;
+	text-align: justify;
+}
+
+h4 a {
+	color: #61dAac;
+}
+
+h4 a:hover {
+	color: #114242;
+}
+.strong {
+	color: #61dAac !important;
+}
+.text-success {
+	color: #61dAac !important;
+}
+.fa-graduation-cap, .fa-chalkboard-teacher, .fa-list-alt {
+	color: #114242;
+}
+
+
+h5 strong {
+	color: #fff;
+}
+
+ a{
+	color: #fff;
+}
+.Navbar-toggler {
+	background-color: #61dAac !important;
+	padding: 10px;
+}
+
+
+.footer {
+	background-color: #61dAac;
+}
+
+.list-unstyled li a:hover {
+	color: #114242 !important;
+}
+
+
+.select-url {
+   color: #222;
+}
+
+.select-url-path {
+   color: #999;
+   font-style: italic;
+}
+
